@@ -21,17 +21,16 @@ Things I love:
 - **C++ Programming**: I think I am quite good at it. This is called "Dunning Kruger effect".
 - **Open Source**: I have few projects going on, mostly related to robotics. I like reporting bugs and sending PRs titled "Improved performance x%".
 
-[![Mohammed Ahmeds GitHub stats](https://github-readme-stats.vercel.app/api?username=mnourgwad)](https://github.com/mnourgwad/github-readme-stats&show_icons=true&theme=radical)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mnourgwad&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnourgwad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mnourgwad&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mnourgwad&repo=convoychat" />
 </a>
