@@ -21,8 +21,7 @@ Things I love:
 - **C++ Programming**: I think I am quite good at it. This is called "Dunning Kruger effect".
 - **Open Source**: I have few projects going on, mostly related to robotics. I like reporting bugs and sending PRs titled "Improved performance x%".
 
-[![Mohammed Ahmeds GitHub stats](https://github-readme-stats.vercel.app/api?username=mnourgwad)](https://github.com/mnourgwad/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+[![Mohammed Ahmeds GitHub stats](https://github-readme-stats.vercel.app/api?username=mnourgwad)](https://github.com/mnourgwad/github-readme-stats&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
