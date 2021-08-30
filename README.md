@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me 👋
-
 Things I love:
 
 - **Robotics**: when I was a child, I wanted to build robots. This is what I do eventually so... success!
