@@ -22,4 +22,16 @@ Things I love:
 - **Open Source**: I have few projects going on, mostly related to robotics. I like reporting bugs and sending PRs titled "Improved performance x%".
 
 [![Mohammed Ahmeds GitHub stats](https://github-readme-stats.vercel.app/api?username=mnourgwad)](https://github.com/mnourgwad/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
